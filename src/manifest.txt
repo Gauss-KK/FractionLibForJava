@@ -1,0 +1,8 @@
+Built-By: Gauss-KK
+Package-Name: FractionLib
+Specification-Title: MyFraction Class
+Specification-Version: 1.0.3
+Specification-Vendor: KNumerics.NET
+Implementation-Title: net.knumerics.numbers.MyFraction
+Implementation-Version: build-003
+Implementation-Vendor: KNumerics.NET
